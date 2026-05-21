@@ -1,118 +1,128 @@
-# Hi, I'm Isaac K. Adjei 👋
+<h1 align="center">Hi 👋, I'm Isaac Adjei</h1>
 
-## Health IT | CAPM | Health Informatics | EHR Implementation | Army Officer
+<h3 align="center">
+Health IT Professional | Clinical Informatics | Project Management | Healthcare Analytics | U.S. Army National Guard Officer
+</h3>
 
-Health IT professional with experience spanning healthcare operations, project management, health informatics, and military leadership. I hold graduate education in Applied Health Informatics and Information Systems and am focused on healthcare technology, analytics, and EHR system implementation.
-
-Currently building projects involving:
-
-- Healthcare Analytics
-- SQL & Database Systems
-- Health Informatics
-- EHR/EMR Systems
-- Power BI Dashboards
-- Information Systems Strategy
-- Healthcare Project Management
+<p align="center">
+Building healthcare technology, informatics solutions, and analytics systems that improve clinical and operational decision-making.
+</p>
 
 ---
 
-## Education
+## 🚀 About Me
 
-🎓 MSc – Applied Health Informatics  
-🎓 Master of Professional Studies – Employment Relations  
-🎓 Master of Management Information Systems (In Progress)
-
----
-
-## Certifications
-
-✔ Certified Associate in Project Management (CAPM)
+- 🎓 MSc in Applied Health Informatics  
+- 🎓 Master of Professional Studies in Employment Relations  
+- 🎓 MMIS Candidate — Management Information Systems, Georgia College & State University  
+- 📋 Certified Associate in Project Management (CAPM)  
+- 🪖 U.S. Army National Guard Officer (70B Health Services Administration)  
+- 📊 Background in healthcare systems, project coordination, and data analytics  
+- 💡 Interested in Health IT, EHR implementation, clinical systems, healthcare analytics, and PMO operations  
 
 ---
 
-## Military Leadership
-
-🇺🇸 U.S. Army National Guard Officer  
-Health Services Administration Officer (70B)
-
-Leadership experience involving:
-
-- Operational planning
-- Healthcare coordination
-- Team leadership
-- Resource management
-- Risk Management
-
----
-
-## Featured Projects
+## 🏥 Featured Projects
 
 ### Healthcare Database for Patient Flow Optimization
+Designed a healthcare database system focused on improving patient flow, resource utilization, and operational efficiency.
 
-Healthcare database system designed to improve patient flow and operational efficiency using relational database design, SQL analytics, normalization principles, and healthcare workflow optimization.
-
-Skills:
-
-`SQL` `Database Design` `Healthcare Analytics`
+**Skills & Technologies:**  
+SQL • Database Design • Data Modeling • ERD • Normalization • Analytics
 
 ---
 
 ### Patient Movement Tracker Dashboard
+Created a leadership-focused patient movement dashboard to track patient metrics and support operational awareness.
 
-Leadership-focused patient movement and operational tracking system used to improve reporting visibility and operational awareness.
-
-Skills:
-
-`Excel` `Data Analytics` `Operational Reporting`
+**Skills & Technologies:**  
+Excel • Dashboarding • Reporting • Healthcare Operations Analytics
 
 ---
 
 ### Military Water Consumption Dashboard
+Built a decision-support dashboard for leadership to estimate water consumption requirements for large military operations.
 
-Operational dashboard used for leadership planning and sustainment calculations for military personnel.
-
-Skills:
-
-`Excel` `Dashboard Design` `Leadership Analytics`
+**Skills & Technologies:**  
+Excel • Data Analysis • Leadership Reporting • Operational Planning
 
 ---
 
-### MMIS IT Strategy & Governance Project
+### IT Strategy & Governance Project
+Developed an organizational IT strategy and governance framework focused on business alignment and technology planning.
 
-Strategic analysis project focused on information systems governance and organizational technology alignment.
-
-Skills:
-
-`IT Governance` `Strategic Planning`
+**Skills & Technologies:**  
+IT Governance • Strategic Planning • Business Analysis
 
 ---
 
-## Technical Skills
+### Health IT Portfolio Website
+Building a professional portfolio showcasing healthcare technology, informatics, analytics, and leadership projects.
 
-SQL
-
-Power BI
-
-Excel
-
-Healthcare Analytics
-
-Database Modeling
-
-Health Informatics
-
-Project Management
-
-Healthcare Information Systems
+**Skills & Technologies:**  
+GitHub • HTML • Portfolio Development
 
 ---
 
-## Connect With Me
+## 🛠 Technical Skills
 
-LinkedIn:
+### Health IT
+- Electronic Health Records (EHR)
+- Clinical Informatics
+- Healthcare Analytics
+- Healthcare Information Systems
 
-www.linkedin.com/in/isaacadjei-healthit
+### Technical
+- SQL
+- Power BI
+- Python
+- Database Design
+- Data Modeling
+- Azure Data Studio
+- Excel Analytics
 
-GitHub:
+### Project Management
+- CAPM
+- Agile
+- PMO Support
+- Stakeholder Management
+- Process Improvement
 
-github.com/isaacadjei-healthit
+---
+
+## 📚 Current Learning Focus
+
+Currently expanding skills in:
+
+- Power BI
+- SQL Analytics
+- Python for Healthcare Data
+- Business Intelligence
+- Health Information Systems
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=isaacadjei-healthit&show_icons=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacadjei-healthit&layout=compact" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+LinkedIn: www.linkedin.com/in/isaacadjei-healthit/
+
+Future Portfolio Website:  
+isaacadjei-healthit.github.io
+
+---
+
+<p align="center">
+"Using technology, data, and leadership to improve healthcare systems."
+</p>
