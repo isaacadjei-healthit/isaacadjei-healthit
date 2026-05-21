@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isaac Adjei</h1>
+<h1 align="center">Hi 👋, I'm Isaac K. Adjei</h1>
 
 <h3 align="center">
 Health IT Professional | Clinical Informatics | Project Management | Healthcare Analytics | U.S. Army National Guard Officer
