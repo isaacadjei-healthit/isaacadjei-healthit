@@ -134,7 +134,7 @@ LinkedIn:
 https://www.linkedin.com/in/isaacadjei-healthit/
 
 Portfolio Website:  
-Coming Soon
+https://isaacadjei-healthit.github.io/
 
 ---
 
